@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+The chatbot is a machine that provides responses to YOUR questions and answers. Regardless of how you feel, this chatbot will for sure make your day! 
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+The chatbot exists to provide users with whimsical and entertaining responses. On days when you feel alone or unheard, this chatbot will for sure address your concerns!
 
 ## Install
 
@@ -20,6 +20,5 @@ These are the steps to setup your local environment to run this application.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
 
 ### Any optional sections
